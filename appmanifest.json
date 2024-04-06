@@ -1,6 +1,6 @@
 {
-	"name": "Farming Lines Template",
-	"short_name": "Farming Lines Template",
+	"name": "portion_farm",
+	"short_name": "portion_farm",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
